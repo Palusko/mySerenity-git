@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1391190396 source:c:\users\pavol\desktop\programming\c\my serenity project\myserenity\bookinfo.cpp
+	<iostream>
+	<iomanip>
+
+1391206603 source:c:\users\pavol\desktop\programming\c\my serenity project\myserenity\invmenu.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1391189278 c:\users\pavol\desktop\programming\c\my serenity project\myserenity\main.h
+
+1391208351 source:c:\users\pavol\desktop\programming\c\my serenity project\myserenity\main.cpp
+	"cashier.h"
+	"invmenu.h"
+	"reports.h"
+	<cctype>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1391189265 c:\users\pavol\desktop\programming\c\my serenity project\myserenity\mainmenu.h
+
+1391189299 c:\users\pavol\desktop\programming\c\my serenity project\myserenity\bookinfo.h
+
+1391190396 source:c:\users\pavol\desktop\programming\c\my serenity project\myserenity\mainmenu.cpp
+	"cashier.h"
+	"invmenu.h"
+	"reports.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1391189311 c:\users\pavol\desktop\programming\c\my serenity project\myserenity\cashier.h
+
+1391189288 c:\users\pavol\desktop\programming\c\my serenity project\myserenity\invmenu.h
+
+1391189236 c:\users\pavol\desktop\programming\c\my serenity project\myserenity\reports.h
+
+1391208925 source:c:\users\pavol\desktop\programming\c\my serenity project\myserenity\reports.cpp
+	"main.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1391199390 source:c:\users\pavol\desktop\programming\c\my serenity project\myserenity\cashier.cpp
+	"mainMenu.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
+1391190398 source:c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\bookinfo.cpp
+	<iostream>
+	<iomanip>
+
+1392219451 source:c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\cashier.cpp
+	"mainMenu.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
+1391189266 c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\mainmenu.h
+
+1391206604 source:c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\invmenu.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1392223929 source:c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\main.cpp
+	"cashier.h"
+	"invmenu.h"
+	"reports.h"
+	<cctype>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1391189312 c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\cashier.h
+
+1391189290 c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\invmenu.h
+
+1391189238 c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\reports.h
+
+1391190398 source:c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\mainmenu.cpp
+	"cashier.h"
+	"invmenu.h"
+	"reports.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1392223531 source:c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\reports.cpp
+	"main.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1391189280 c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\main.h
+
