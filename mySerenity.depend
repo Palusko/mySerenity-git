@@ -101,3 +101,30 @@
 
 1391189280 c:\users\pavol.11046184\desktop\my serenity project-orig\myserenity\main.h
 
+1391190398 source:c:\users\pavol\desktop\programming\c\my serenity project\myserenity-git\bookinfo.cpp
+	<iostream>
+	<iomanip>
+
+1392219452 source:c:\users\pavol\desktop\programming\c\my serenity project\myserenity-git\cashier.cpp
+	"mainMenu.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
+1391189266 c:\users\pavol\desktop\programming\c\my serenity project\myserenity-git\mainmenu.h
+
+1391206604 source:c:\users\pavol\desktop\programming\c\my serenity project\myserenity-git\invmenu.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1392223532 source:c:\users\pavol\desktop\programming\c\my serenity project\myserenity-git\reports.cpp
+	"main.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1391189280 c:\users\pavol\desktop\programming\c\my serenity project\myserenity-git\main.h
+

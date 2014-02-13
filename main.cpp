@@ -24,13 +24,20 @@ int main()
         system("CLS"); //clear the screen
 
         //menu
-        cout << setw(25) << "Serendipity Book Store\n";
-        cout << setw(19) << "Main Menu\n\n";
-        cout << "1. Cashier Module\n";
-        cout << "2. Inventory Database Module\n";
-        cout << "3. Report Module\n";
-        cout << "4. Exit\n\n";
+        cout << "********************************\n";
+        cout << setw(25) << "*    Serendipity Book Store    *\n";
+        cout << setw(19) << "*         Main Menu            *\n";
+        cout << "*                              *\n";
+        cout << "*                              *\n";
+        cout << "* 1. Cashier Module            *\n";
+        cout << "* 2. Inventory Database Module *\n";
+        cout << "* 3. Report Module             *\n";
+        cout << "* 4. Exit                      *\n";
+        cout << "*                              *\n";
+        cout << "********************************\n";
         cout << "Enter your choice.\n";
+
+
 
         //make your choice
 
